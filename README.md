@@ -52,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/V-CodeVanguard/My-DSA/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/V-CodeVanguard/My-DSA/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/V-CodeVanguard/My-DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
